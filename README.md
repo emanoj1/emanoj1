@@ -1,11 +1,10 @@
-![git-hub-image-color](https://github.com/emanoj1/emanoj1/assets/37259245/92f665ad-ffd4-49c0-a904-86ff13f1bfcf)
-
+![git-hub-image-color-blue-bg](https://github.com/emanoj1/emanoj1/assets/37259245/21c79dde-4741-4305-b3aa-3c7ebf368710)
 
 👋 I am **Manoj Kumar**
 
 About me:
 
-- 👨‍💻 I’m currently in a coding bootcamp to be a full-stack web developer.
+- 👨‍💻 I’m currently in a coding boot camp to be a full-stack web developer.
 - 🌱 I’m learning HTML, CSS, Python, Flask, PostgreSQL, Javascript, React & Node Express.
 - 👷‍♂️ I know how to work on platforms/tools like WordPress, Webflow, Shopify, SquareSpace, Airtable, Softr, Zapier & VS Code.  
 - 🚀 I’m solo-bootstrapping 3 web app projects - launch in mid-2024!
