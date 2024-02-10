@@ -2,7 +2,7 @@
 
 👋 I am **Manoj Kumar**
 
-A lot of few things about me:
+About me:
 
 - 👨‍💻 I’m currently in a coding bootcamp to be a full-stack web developer.
 - 🌱 I’m learning HTML, CSS, Python, Flask, PostgreSQL, Javascript, React & Node Express.
@@ -10,8 +10,4 @@ A lot of few things about me:
 - 🚀 I’m solo-bootstrapping 3 web app projects - launch in mid-2024!
 - 🏋 I have work experience in sales, marketing, international business, digital ad operations and operational experience!
 
-- ⚡ Fun fact 1: 📚 I am an indie-author working on a children's picture book.
-- ⚡ Fun fact 2: 🎥 I have a YouTube vlog! [@checkoutaustralia](https://youtube.com/@checkoutaustralia)
-- ⚡ Fun fact 3: 🎙 I have 2 podcast channels!! [Manoj Speaks](https://podcasters.spotify.com/pod/show/manojspeaks) and [Random Stranger Talks](https://randomstrangertalk.com/)
-- ⚡ Fun fact 4: 👨‍🎨 I do some doodling & sketching too.
-- ⚡ Fun fact 5: 🥕 I am a vegetarian and cook this way 👉[Unrecipes.net](https://unrecipes.net)
+- ⚡ Fun facts: I do many other things: an indie-author working on a children's picture book, creating vlogs on YouTube: [@checkoutaustralia](https://youtube.com/@checkoutaustralia), running 2 podcast channels!! [Manoj Speaks](https://podcasters.spotify.com/pod/show/manojspeaks) and [Random Stranger Talks](https://randomstrangertalk.com/), doodling away on an iPad, and finally vegetarian cooking this way 👉[Unrecipes.net](https://unrecipes.net)
