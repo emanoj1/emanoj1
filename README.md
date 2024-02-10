@@ -1,4 +1,5 @@
-![manoj-github-image](https://github.com/emanoj1/emanoj1/assets/37259245/6de5d152-b60e-440b-b5e3-9a399c6f8c96)
+![git-hub-image-color](https://github.com/emanoj1/emanoj1/assets/37259245/92f665ad-ffd4-49c0-a904-86ff13f1bfcf)
+
 
 👋 I am **Manoj Kumar**
 
