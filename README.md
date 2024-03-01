@@ -4,9 +4,9 @@
 
 About me:
 
-- 👨‍💻 I’m currently in a coding boot camp to be a full-stack web developer, learning **HTML, CSS, Python, Flask, PostgreSQL, Javascript, React & Node Express**.
+- 👨‍💻 I’m currently in a coding boot camp to be a full-stack web developer, learning **HTML, CSS, Python, Flask, PostgreSQL, SQLAlchemy, Javascript, ReactJS & Express Node-JS, MongoDB**.
 - 👷‍♂️ I have built websites using WordPress, Webflow, Shopify, SquareSpace, Softr, Wix & Carrd.
-- 🛠 I have knowledge of these tools (**Automation**: Airtable, Zapier), (**Coding**: VS Code), (**Workflows**: Visio, Draw.io), (**Digital ad trafficking**: Google Ad Manager), (**Insights**: Google Analytics)     
+- 🛠 I have knowledge of these tools (**Automation**: Airtable, Zapier), (**Coding**: VS Code), (**Workflows**: Visio, Draw.io), (**Digital ad trafficking**: Google Ad Manager), (**Insights**: Google Analytics), (**Social Media Advertising platforms**: Meta, Twitter, Reddit, Snapchat, TikTok, Spotify, Amazon)     
 - 🚀 I’m solo-bootstrapping 3 web app projects - launch in mid-2024!
 - 🏋 I have worked in sales, marketing, international business, digital ad operations, operational excellence and adtech!
 
