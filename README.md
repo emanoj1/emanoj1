@@ -11,7 +11,7 @@ About me:
 - 🏋 I have worked in sales, marketing, international business, digital ad operations, operational excellence and ad tech!
 
 - ⚡ **Fun facts**: Some of the other things I do!
-- an indie author [Chester The Dino](https://chesterthedino.com)
-- creating vlogs on YouTube [@checkoutaustralia](https://youtube.com/@checkoutaustralia)
-- running 2 podcast channels [Manoj Speaks](https://podcasters.spotify.com/pod/show/manojspeaks) and [Random Stranger Talks](https://randomstrangertalk.com/)
-- vegetarian cooking like this 👉 [Unrecipes.net](https://unrecipes.net)
+  - an indie author [Chester The Dino](https://chesterthedino.com)
+  - creating vlogs on YouTube [@checkoutaustralia](https://youtube.com/@checkoutaustralia)
+  - running 2 podcast channels [Manoj Speaks](https://podcasters.spotify.com/pod/show/manojspeaks) and [Random Stranger Talks](https://randomstrangertalk.com/)
+  - vegetarian cooking like this 👉 [Unrecipes.net](https://unrecipes.net)
