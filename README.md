@@ -4,14 +4,14 @@
 
 About me:
 
-- 👨‍💻 I’m currently in a coding boot camp to be a full-stack web developer, learning **HTML, CSS, Python, Flask, PostgreSQL, SQLAlchemy, Javascript, ReactJS & Express NodeJS, MongoDB**.
-- 👷‍♂️ I have built websites using WordPress, Webflow, Shopify, SquareSpace, Softr, Wix & Carrd.
+- 👨‍💻 I’m a full-stack web developer, learning **HTML, CSS, Python, Flask, PostgreSQL, SQLAlchemy, Javascript, ReactJS & Express NodeJS, MongoDB**.
+- 👷‍♂️ I have built websites using WordPress, Webflow, Shopify, Squarespace, Softr, Wix & Carrd.
 - 🛠 I know these tools (**Automation**: Airtable, Zapier), (**Coding**: VS Code), (**Workflows**: Visio, Draw.io), (**Digital ad trafficking**: Google Ad Manager), (**Insights**: Google Analytics), (**Social Media Advertising platforms**: Meta, Twitter, Reddit, Snapchat, TikTok, Spotify, Amazon)     
-- 🚀 My bootstrapped web app projects: [education.cv](https://education.cv) | [commuter.fyi](https://commuter.fyi) | [Okra Travels](https://okratravels.com.au) | [FitnessLeafAI](https://fitnessleafai.com) | [Farm Workers](https://farmworkers.com.au)
+- 🚀 My bootstrapped web app projects: [Share Your Kofi](https://shareyourkofi.com) | [Coin Exit Tracker](https://coinexittracker.com) | [commuter fyi](https://commuterfyi.netlify.app) | [Okra Travels](https://okratravels.com.au) | 
 - 🏋 I have worked in sales, marketing, international business, digital ad operations, operational excellence and ad tech!
 
 - ⚡ **Fun facts about me**: 
-  - an indie author [Chester The Dino](https://chesterthedino.com)
+  - an indie author [Chester The Dino](https://chesterthedino.com) & [Purple Dino Books](https://purpledinobooks.com)
   - creating vlogs on YouTube [@checkoutaustralia](https://youtube.com/@checkoutaustralia)
-  - running 2 podcast channels [Manoj Speaks](https://podcasters.spotify.com/pod/show/manojspeaks) and [Random Stranger Talks](https://randomstrangertalk.com/)
+  - running 2 podcast channels [Manoj Speaks](https://podcasters.spotify.com/pod/show/manojspeaks) and [Random Stranger Talks](https://creators.spotify.com/pod/profile/randomstrangertalk/)
   - vegetarian cooking like this 👉 [Unrecipes.net](https://unrecipes.net)
